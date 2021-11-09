@@ -1,0 +1,13 @@
+@import url("bootstrap/dist/css/bootstrap.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Quicksand:wght@500&family=Roboto&display=swap");
+* {
+  font-family: "Poppins";
+}
+.links {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+}
+.links:hover {
+  color: #d67387;
+}
