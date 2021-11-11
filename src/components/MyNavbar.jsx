@@ -13,11 +13,12 @@ function MyNavbar() {
               <Link className="links" to="/">
                 Home
               </Link>
-
               <Link className="links" to="/quotes">
                 Quotes
               </Link>
-
+              <Link className="links" to="/dogs">
+                Dog Images
+              </Link>
               <Link className="links" to="/contact">
                 Contact
               </Link>
